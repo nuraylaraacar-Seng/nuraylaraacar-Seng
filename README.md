@@ -45,15 +45,23 @@ Highlights:
 ---
 
 ### 🏆 HackerRank Achievements
-<a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-5--Star_C++-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 5-Star C++" />
-</a>
-<a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-5--Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 5-Star Python" />
-</a>
-<a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-3--Star_Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 3-Star Problem Solving" />
-</a>
+---
+
+<div align="center">
+  <h3>🏆 HackerRank Achievements</h3>
+  
+  <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
+    <img src="https://img.shields.io/badge/C++-⭐⭐⭐⭐⭐-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="5-Star C++" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
+    <img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="5-Star Python" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
+    <img src="https://img.shields.io/badge/Problem_Solving-⭐⭐⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=black" alt="3-Star Problem Solving" />
+  </a>
+</div>
+
+---
 
 ---
 
