@@ -44,32 +44,15 @@ Highlights:
 
 ---
 
----
-
 <div align="center">
   <h3>🏆 HackerRank Achievements</h3>
-  <br>
-  
-  <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-    <!-- src kısmına GitHub'a yüklediğin C++ resminin yolunu veya linkini koy -->
-    <img src="./images/cpp.png" alt="5-Star C++" width="120" />
+  <div align="left">
+  <a href="https://www.hackerrank.com/nurayacar162" target="_blank">
+    <img src="https://hackerrank-badges.vercel.app/nurayacar162" alt="Nuray Lara Açar HackerRank Badges" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-    <!-- src kısmına GitHub'a yüklediğin Python resminin yolunu veya linkini koy -->
-    <img src="./images/python.png" alt="5-Star Python" width="120" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-    <!-- src kısmına GitHub'a yüklediğin Problem Solving resminin yolunu veya linkini koy -->
-    <img src="./images/problem-solving.png" alt="3-Star Problem Solving" width="120" />
-  </a>
-
 </div>
 
----
+</div>
 
 ---
 
