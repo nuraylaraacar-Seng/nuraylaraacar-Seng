@@ -44,21 +44,29 @@ Highlights:
 
 ---
 
-### 🏆 HackerRank Achievements
 ---
 
 <div align="center">
   <h3>🏆 HackerRank Achievements</h3>
+  <br>
   
   <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-    <img src="https://img.shields.io/badge/C++-⭐⭐⭐⭐⭐-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="5-Star C++" />
+    <!-- src kısmına GitHub'a yüklediğin C++ resminin yolunu veya linkini koy -->
+    <img src="./images/cpp.png" alt="5-Star C++" width="120" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-    <img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="5-Star Python" />
+    <!-- src kısmına GitHub'a yüklediğin Python resminin yolunu veya linkini koy -->
+    <img src="./images/python.png" alt="5-Star Python" width="120" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.hackerrank.com/profile/nurayacar162" target="_blank">
-    <img src="https://img.shields.io/badge/Problem_Solving-⭐⭐⭐-silver?style=for-the-badge&logo=hackerrank&logoColor=black" alt="3-Star Problem Solving" />
+    <!-- src kısmına GitHub'a yüklediğin Problem Solving resminin yolunu veya linkini koy -->
+    <img src="./images/problem-solving.png" alt="3-Star Problem Solving" width="120" />
   </a>
+
 </div>
 
 ---
