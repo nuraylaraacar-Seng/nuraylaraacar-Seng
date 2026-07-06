@@ -60,7 +60,7 @@ Highlights:
 
 Software Engineering Student
 Harran University
-
+n
 ## Contact
 
 📧 [nurayacar162@gmail.com](mailto:nurayacar162@gmail.com)
